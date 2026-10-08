@@ -1,0 +1,21 @@
+Mode: built-in image_gen; generate; two separate calls in one parallel batch. transparent_background=false. No reference images. No retries or variants.
+
+HERO — brs-hero-original.png
+Use case: ads-marketing
+Asset type: original illustrative automotive service website hero, landscape 1536x1024 or equivalent wide 3:2 composition.
+Primary request: Cinematic photorealistic close-up of a graphite sports sedan's front wheel and front quarter with wet water droplets. Premium editorial automotive studio campaign photography.
+Scene/backdrop: Almost black premium studio background, clean and spare.
+Composition/framing: Car occupies the RIGHT 60% of the frame. LEFT 40% is nearly black, empty, uninterrupted negative space for typography that will be added separately. Vehicle points left. Tight crop showing front wheel, sculpted hood and headlight in the right portion; focus on authentic wheel and body materials.
+Lighting/mood: Strong cinematic contrast, subtle dark red rim light, restrained highlights, moody charcoal atmosphere.
+Materials/textures: Highly realistic graphite painted metal, crisp water droplets, rubber tire, detailed metal wheel, glass headlight.
+Constraints: Original unbranded image. No logos, license plates, people, text, typography, watermark or UI. Opaque background. This is an illustrative service visual, not a factual photo of a particular business.
+
+BRAKE DETAIL — brs-brake-detail-original.png
+Use case: ads-marketing
+Asset type: original illustrative automotive brake-service detail image, landscape 1536x1024 or equivalent wide 3:2 composition.
+Primary request: Ultra-close photorealistic exposed brake rotor, metallic slotted disc and red brake caliper, premium automotive detail photography.
+Scene/backdrop: Realistic dark workshop background fading into charcoal shadow.
+Composition/framing: Angled mechanical detail fills the RIGHT two thirds; exposed slotted metal rotor and red caliper are the clear focal point. Tight close-up, believable engineering and material realism, left portion remains dark and understated.
+Lighting/mood: Moody charcoal photography with subtle red light, cinematic contrast and controlled metal highlights.
+Materials/textures: Machined metallic slotted brake disc with authentic brushed surface, crisp grooves, realistic red painted brake caliper, dark workshop textures.
+Constraints: Original unbranded image. No logos, lettering, people, license plates, watermark, text or UI. Opaque background. This is an illustrative service visual, not a factual photo of a particular business.
